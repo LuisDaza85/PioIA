@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "Agustin-backend",
+    "alebackend",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "Agustin-backend": "main",
+    "alebackend": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "Agustin-backend",
+    "alebackend",
+    "origin"
+  ]
+}

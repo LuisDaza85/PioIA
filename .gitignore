@@ -1,0 +1,17 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache y compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Node / dependencias front-end si aplica en monorepo
+node_modules/
+
+# Entorno local (variables)
+.env
+.env.local
